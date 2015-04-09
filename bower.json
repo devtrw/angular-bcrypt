@@ -1,0 +1,28 @@
+{
+  "name": "angular-bcrypt",
+  "main": ["dist/dtrw.bcrypt-df34c8d1.js"],
+  "version": "1.0.0",
+  "description": "Wraps dcodeIO/bcrypt.js in an angular module",
+  "authors": [
+    "Steven Nance <steven@devtrw.com>"
+  ],
+  "keywords": ["angular", "angularjs", "javascript", "bcrypt"],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "gulpfile.js",
+    "node_modules",
+    "package.json",
+    "src"
+  ],
+  "overrides": {
+    "angular": {
+      "ignore": true
+    }
+  },
+  "dependencies": { },
+  "devDependencies": {
+    "angular": "*",
+    "angular-mocks": "~1.3.15"
+  }
+}
