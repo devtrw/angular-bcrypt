@@ -20,4 +20,6 @@ Usage
 See the [decodeIO/bcrypt.js](https://github.com/dcodeIO/bcrypt.js) repository for
 API documentation.
 
-License: See the included LICENSE
+License
+===
+See the included LICENSE
